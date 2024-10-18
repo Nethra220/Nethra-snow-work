@@ -1,4 +1,4 @@
-[10:22, 07/10/2024] Anufa: Creating a table, schema, and database in SQL involves several steps. Here’s a simple guide to help you through the process:
+ Creating a table, schema, and database in SQL involves several steps. Here’s a simple guide to help you through the process:
 
 1. Create a Database
 First, you'll need to create a database. You can do this using the CREATE DATABASE statement.
